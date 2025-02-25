@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/sivyourdesign"><img src="https://api.daily.dev/devcards/ffbc3fab358a434a8dfaa3f8a4644ad6.png?r=txd" width="400" alt="Edward Sivyour's Dev Card"/></a>
